@@ -1,0 +1,4 @@
+config:
+  MD013: false # Long Lines
+  MD026: false # Puctuations at the end of title
+  MD033: false # Inline HTML
