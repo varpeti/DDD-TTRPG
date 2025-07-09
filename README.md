@@ -1,4 +1,4 @@
-# ... TTRPG
+# DDD-TTRPG
 
 Work in progress
 

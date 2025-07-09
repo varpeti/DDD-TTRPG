@@ -1,5 +1,7 @@
 # Conditions
 
+TODO: Work it out :)
+
 ## Alternate Form
 
 - Class: Alteration
