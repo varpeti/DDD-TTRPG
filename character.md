@@ -1,6 +1,6 @@
 # Character
 
-Name, Age, Race, Appearance, Personality, Background, Traits, Flaws, etc
+Name, Age, Appearance (Physique, Skin, Hair, Face, Clothing, Speech, etc), Personality (Virtues, Traits, Vices, Flaws, Patron, Deity, Vow, etc), Background, etc
 
 ## Attributes
 
@@ -48,13 +48,17 @@ Defines the Speed of movements, like running, climbing, jumping, swimming, etc.
 9. Titanic - Ancient Dragon, Floating Fortress
 10. Gigantic - World Serpent, Living Mountain, Celestial Avatar
 
+## Features
+
+A list of features of the Character for quick lookup
+
 ## Inventory: Equipment, Items
 
 Items in the character's possession (inventory)
 
 ### Mark: `H` - In-Hands
 
-Each hand could handle a limited number of Item. (A short-sword and a shield, a two-handed Great-Axe, etc)
+Each hand can handle 1 Item. (A short-sword and a shield, a two-handed Great-Axe, etc)
 
 ### Mark: `O` - Within immediate reach
 
@@ -68,15 +72,9 @@ Limited number of items, not in direct reach. (A book in the backpack, apples in
 
 Items left somewhere.
 
-### Mark: `$` - Money
+### Money/Wealth
 
-- Copper -
-- Silver - 100x Copper
-- Gold - 100x Silver
-
-## Features
-
-A list of features of the Character for quick lookup
+Character's Wealth or Currency
 
 ## Notes
 
