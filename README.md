@@ -8,7 +8,7 @@ Work in progress
 - Story based, (but can be a dungeon crawler)
 - Simple Attributes, Stats
 - Progression (Attributes, Stats, Features, Itemization, Knowledge, Aspects)
-- Genre independent (the core)
+- Genre independent (with tweaks, built for High Fantasy)
 - Roll many dice (d20 based, Advantages/Disadvantages, Object dice)
 - Easy on math
 - Fail forward
@@ -22,13 +22,13 @@ Work in progress
 - Optional Rolling Tables for fast creation
 - Optional Rules for keeping past ruling consistent
 - Example Bestiary, World
-- Example Game
 
 ## The Book
 
 - Players Guide
-  - Character Creation
+  - [Character Creation](./character_creation.md)
     - Character Rolling Tables
+    - [Character Sheet](./CharacterSheet.ods)
   - Core Rules
     - Conditions
 - Wardens Guide
