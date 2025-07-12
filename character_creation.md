@@ -24,19 +24,19 @@ General experience of the world. This is set by the GM, and used as the currency
 
 Physical strength, might, toughness, fortitude, constitution, athletics, muscles, health etc.
 
-It can be depleted, when it hits 0, the Character is [Dead](TODO). Recovering it takes time and resources.
+It can be depleted, when it hits 0, the Character is [Dead](./conditions.md#dead). Recovering it takes time and resources.
 
 ### Dexterity `DEX`
 
 Agility, poise, acrobatics, sneakiness, muscle memory, slight of hand, maneuverability, quickness etc.
 
-It can be depleted, when it hits 0, the Character is [Immobile](TODO), unable to move any muscle. Recovering it takes time and resources.
+It can be depleted, when it hits 0, the Character is [Immobile](./conditions.md#immobile), unable to move any muscle. Recovering it takes time and resources.
 
 ### Will Power `WIL`
 
 Mental force, knowledge, persuasion, interrogation, charm, intimidation, provocation, manipulation, etc.
 
-It can be depleted, when it hits 0, the Character is [Incapacitated](TODO) out of their mind and unable to use their senses or communicate in any way. Recovering it takes time and resources.
+It can be depleted, when it hits 0, the Character is [Incapacitated](./conditions.md#incapacitated) out of their mind and unable to use their senses or communicate in any way. Recovering it takes time and resources.
 
 ## Stats
 
@@ -57,7 +57,7 @@ Defines the Speed of [Movements](todo), like running, climbing, jumping, swimmin
 On a grid the number represents the [Spaces](TODO), its about 1.5m or 5 feet per point.
 
 - Suggestions for the GM and players, but its up to them to decide:
-  - Climbing, Swimming is [Slow](TODO), it is half the **Speed**, unless the character able to do it fast.
+  - Climbing, Swimming is [Slow](./conditions.md#slowed), it is half the **Speed**, unless the character able to do it fast.
   - Vertical Jump distant is equal to the **Speed**, further jumping could require [STR](#strength-str) or [DEX](#dexterity-dex) check depending on the situation, the Character's abilities and role-play.
   - Horizontal Jump distance is low, but it depends on the character.
 
@@ -65,8 +65,8 @@ On a grid the number represents the [Spaces](TODO), its about 1.5m or 5 feet per
 
 Defines the Size of the Character. Some examples to help:
 
-0. Tiny - Bug, Mice, Pixie, Dagger
-1. Very Small - Average Cat, Dog, Wolf Pup, Tower Shield
+0. Tiny - Bug, Mice, Rat, Snake, Dagger
+1. Very Small - Average Cat, Dog, Wolf Pup, Pixie, Tower Shield
 2. Small - Average Halfling, Kobold, Goblin
 3. Normal - Average Human, Elf, Drow
 4. Large - Average Horse, Ox, Minotaur, Orc

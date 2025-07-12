@@ -31,7 +31,7 @@ Work in progress
     - [Character Sheet](./CharacterSheet.ods)
   - Core Rules
     - Conditions
-- Wardens Guide
+- GM Guide
   - Optional Rules
   - Procedures
   - Bestiary
