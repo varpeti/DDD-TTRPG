@@ -163,7 +163,7 @@ TODO:
     - **Grappling**: Grabbing with both or one hand, depending on the size of the target, it restrict its movement.
       - 1 AP
       - (STR) (1d6 or 1d4) vs (DEX or STR)
-        - Until target free himself and the grapling is [Sustained](#sustaining)
+        - Until target free himself and the grappling is [Sustained](#sustaining)
           - [Immobile: Whole body](#immobile)
   - Environment:
     - A deep quagmire captured the legs of the unsuspecting creature, its [Immobile: Legs](#immobile) until it gets out.
